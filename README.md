@@ -8,7 +8,7 @@ Graphics/animations: Inkscape<br>
 Photo editing: Canon Digital Pro, Photo Explosion<br>
 Video editing: Sony Vegas<br>
 
-<b><u>Proficient in:</b></u><br>MS Office<br><br>
+<b><u>Proficient in:</b></u><br>MS Office<br>
 
 <b><u>Objective:</b></u><br>
 To obtain a remote working position as a junior developer.<br>
