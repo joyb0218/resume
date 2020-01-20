@@ -15,6 +15,7 @@ To obtain a remote working position as a junior developer.<br>
 
 <b><u>Work History:</b></u><br>
 Wyzant - Python tutor, Oct. 2019<br>
+YouTube - Python Learning Channel, Dec. 2019<br>
 Glowbees, LLC - Owner/Operator acting as contractor to Ventra Fowlerville, LLC.<br>
 Paul Garton, Inc./Focus Forward - Completed typing assignments for focus groups/interviews as a freelance transcriptionist.<br> 
 QuickenLoans/TSI - Scheduling/coordinating closings for lender, Title Company & client. Previous roles include CS Rep, Legal Asst.<br>
