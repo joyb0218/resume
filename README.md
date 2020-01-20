@@ -10,7 +10,8 @@ Video editing: Sony Vegas<br>
 
 <b><u>Proficient in:</b></u><br>MS Office<br><br>
 
-<b><u>Objective:</b></u><br><br>
+<b><u>Objective:</b></u><br>
+To obtain a remote working position as a junior developer.<br>
 
 <b><u>Work History:</b></u><br>
 Wyzant - Python tutor, Oct. 2019<br>
