@@ -1,19 +1,19 @@
 Resume
 
-Joy C. Brock
-Python Developer
-Fowlerville, MI
+<b><u>Joy C. Brock</u></b><br>
+Python Developer<br>
+Fowlerville, MI<br>
 
-Preferred programs: 
-Python: PyCharm, Anaconda
-Graphics/animations: Inkscape
-Photo editing: Canon Digital Pro, Photo Explosion
-Video editing: Sony Vegas
+<b><u>Preferred programs:</b></u><br>
+Python: PyCharm, Anaconda<br>
+Graphics/animations: Inkscape<br>
+Photo editing: Canon Digital Pro, Photo Explosion<br>
+Video editing: Sony Vegas<br>
 
-Proficient in: MS Office
+<b><u>Proficient in:</b></u><br>MS Office<br><br>
 
-Objective:
+<b><u>Objective:</b></u><br><br>
 
-Work History:
+<b><u>Work History:</b></u><br><br>
 
-Education:
+<b><u>Education:</b></u><br><br>
