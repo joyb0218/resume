@@ -1,5 +1,3 @@
-Resume
-
 <b><u>Joy C. Brock</u></b><br>
 Python Developer<br>
 Fowlerville, MI<br>
