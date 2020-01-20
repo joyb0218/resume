@@ -15,8 +15,8 @@ Video editing: Sony Vegas<br>
 <b><u>Work History:</b></u><br>
 Wyzant - Python tutor, Oct. 2019<br>
 Glowbees, LLC - Owner/Operator acting as contractor to Ventra Fowlerville, LLC.<br>
-Paul Garton, Inc./Focus Forward - Completed various typing assignments for focus groups and interviews as a freelance transcriptionist.<br> 
-QuickenLoans/TSI - Scheduling and coordinating closings for lender, Title Company and client. Previous roles include CS Rep, Legal Asst.<br>
+Paul Garton, Inc./Focus Forward - Completed typing assignments for focus groups/interviews as a freelance transcriptionist.<br> 
+QuickenLoans/TSI - Scheduling/coordinating closings for lender, Title Company & client. Previous roles include CS Rep, Legal Asst.<br>
 
 
 <b><u>Education:</b></u><br>
