@@ -1,17 +1,17 @@
 <b><u>Joy C. Brock</u></b><br>
 Python Programmer<br>
-Fowlerville, MI<br>
+Greater Lansing, MI<br>
 
 <b><u>Preferred programs:</b></u><br>
 Python: PyCharm, Anaconda<br>
 Graphics/animations: Inkscape<br>
-Photo editing: Canon Digital Pro, Photo Explosion<br>
-Video editing: Sony Vegas<br>
+Photo editing: Canon Digital Pro<br>
+Video editing: Adobe Premier Pro<br>
 
 <b><u>Proficient in:</b></u><br>MS Office<br>
 
 <b><u>Objective:</b></u><br>
-To obtain a remote working position as a junior programmer.<br>
+To obtain a remote working position as a junior Python programmer.<br>
 
 <b><u>Work History:</b></u><br>
 YouTube - Python Learning Channel, Dec. 2019 - <br>
