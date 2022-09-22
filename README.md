@@ -22,7 +22,7 @@ QuickenLoans/TSI - Scheduling/coordinating closings for lender, Title Company & 
 
 
 <b><u>Education:</b></u><br>
-Codecademy - Python 3 Course, Dec. 2021<br>
+Codecademy - Basic, Inter., Advanced Python3<br>
 Codecademy - SQL Course, Sept. 2019<br>
 FreeCodeCamp - Scientific Computing w/Python<br>
 Detroit College of Business - 1994<br>
