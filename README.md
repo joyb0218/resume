@@ -1,5 +1,5 @@
 <b><u>Joy C. Brock</u></b><br>
-Python Programmer<br>
+Python Programmer/IT Technician<br>
 Greater Lansing, MI<br>
 
 <b><u>Preferred programs:</b></u><br>
