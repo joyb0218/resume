@@ -20,7 +20,7 @@ QuickenLoans/TSI - Scheduling/coordinating closings for lender, Title Company & 
 
 
 <b><u>Education:</b></u><br>
-CompTIA ITF+ - Currently working towards A+
+CompTIA ITF+ - Currently working towards A+<br>
 Codecademy - Basic, Inter., Advanced Python3<br>
 Codecademy - SQL Course, Sept. 2019<br>
 FreeCodeCamp - Scientific Computing w/Python<br>
