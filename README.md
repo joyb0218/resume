@@ -8,12 +8,10 @@ Graphics/animations: Inkscape<br>
 Photo editing: Canon Digital Pro<br>
 Video editing: Adobe Premier Pro<br>
 
-<b><u>Proficient in:</b></u><br>MS Office<br>
-
-<b><u>Objective:</b></u><br>
-To obtain a remote working position as a junior Python programmer.<br>
+<b><u>Proficient in:</b></u><br>MS Office, Adobe Premiere Pro, Course Instruction<br>
 
 <b><u>Work History:</b></u><br>
+Fraser Trebilcock - On-site IT Technician
 RealToughCandy.io // Free Code Camp - Course Instructor - April 7, 2022 - Contract / Remote <br>
 YouTube - Python Learning Channel, Dec. 2019 - Present<br>
 Glowbees, LLC - Owner/Operator acting as contractor to Ventra Fowlerville, LLC.<br>
