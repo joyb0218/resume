@@ -11,7 +11,7 @@ Video editing: Adobe Premier Pro<br>
 <b><u>Proficient in:</b></u><br>MS Office, Adobe Premiere Pro, Course Instruction<br>
 
 <b><u>Work History:</b></u><br>
-Fraser Trebilcock - On-site IT Technician
+Fraser Trebilcock - On-site IT Technician<br>
 RealToughCandy.io // Free Code Camp - Course Instructor - April 7, 2022 - Contract / Remote <br>
 YouTube - Python Learning Channel, Dec. 2019 - Present<br>
 Glowbees, LLC - Owner/Operator acting as contractor to Ventra Fowlerville, LLC.<br>
